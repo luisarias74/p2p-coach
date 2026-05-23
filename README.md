@@ -74,6 +74,8 @@ The coach is *not* a knowledge base. A knowledge base answers questions. A coach
 
 ## The P.R.O.V.E. Loop
 
+![The P.R.O.V.E. Loop](assets/prove_loop.png)
+
 The coach runs every project through five sequential gates:
 
 ```text
